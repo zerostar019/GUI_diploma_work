@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="add">
+    <file>ethernet_2.png</file>
+    <file>minus (2).png</file>
+    <file>desktop.png</file>
+    <file>ethernet.png</file>
+    <file>computer-monitor-svgrepo-com.svg</file>
+    <file>minus (1).png</file>
+    <file>computer (1).png</file>
+  </qresource>
+</RCC>
